@@ -4,4 +4,5 @@ Craate my own react with many references
 - https://pomb.us/build-your-own-react/
 - https://react.dev/learn/state-a-components-memory#how-does-react-know-which-state-to-return
 - https://zenn.dev/harukaeru/articles/45d2579493a5c4
+- https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e
 
