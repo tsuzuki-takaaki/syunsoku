@@ -1,0 +1,18 @@
+{
+  "name": "syunsoku",
+  "version": "0.0.1",
+  "description": "Craate my own react with many references",
+  "main": "Syunsoku.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
