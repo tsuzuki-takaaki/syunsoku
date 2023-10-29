@@ -1,4 +1,4 @@
-※ This branch is CRA version
+※ This branch is CRA version(Syunsoku package is under the `src/syunsoku/`)
 
 Craate my own react with many references
 
