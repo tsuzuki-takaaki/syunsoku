@@ -10,4 +10,4 @@ const element = (
   </div>
 )
 const container = document.getElementById("root")
-// ReactDOM.render(element, container)
+Syunsoku.render(element, container)
