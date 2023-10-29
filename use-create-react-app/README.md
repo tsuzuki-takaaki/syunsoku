@@ -1,3 +1,5 @@
+※ This branch is CRA version
+
 Craate my own react with many references
 
 ## References
